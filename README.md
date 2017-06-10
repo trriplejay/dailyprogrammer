@@ -1,2 +1,2 @@
 # dailyprogrammer
-solutions to /r/dailyprogramming in go.
+solutions to /r/dailyprogrammer in go.
